@@ -6,3 +6,5 @@ B = [sum(A[:i]) for i in range(1,6)]
 
 for i in range(0,5):
     print("s(",i+1,") = ", B[i])
+    
+print("\n\n Estos resultados son congruentes con los obtenidos con la fórmula conjeturada")
